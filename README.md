@@ -21,3 +21,5 @@
 
 #
 ## How to Use :
+`https://github.com/K-Wolf-Cyber/Cyber_S.git`
+`chmod +x Cyber_S.sh`
