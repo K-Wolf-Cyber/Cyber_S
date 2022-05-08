@@ -21,5 +21,14 @@
 
 #
 ## How to Use :
-`https://github.com/K-Wolf-Cyber/Cyber_S.git`\n
+`https://github.com/K-Wolf-Cyber/Cyber_S.git`
+#
 `chmod +x Cyber_S.sh`
+#
+you can run like that 
+`sudo bash cyber-s.sh`
+or 
+`./cyber-s.sh`
+#
+### Enter 0 to download all the tool
+`Enter Number: 0` 
