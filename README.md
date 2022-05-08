@@ -21,5 +21,5 @@
 
 #
 ## How to Use :
-`https://github.com/K-Wolf-Cyber/Cyber_S.git`
+`https://github.com/K-Wolf-Cyber/Cyber_S.git`\n
 `chmod +x Cyber_S.sh`
