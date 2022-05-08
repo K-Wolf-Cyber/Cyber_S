@@ -2,7 +2,7 @@
 
 **Cyber-S** have a lot of tool like :
 1. hydra : **using to BruteForce Password**
-2. ffuf : **To Fuzzing **
+2. ffuf : **To Fuzzing**
 3. nmap : **To port Scanning**
 4. assetfinder : **Searing For Sub-domain**
 5. sqlmap : **To Sql Injection**
