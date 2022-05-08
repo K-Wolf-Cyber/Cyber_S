@@ -4,7 +4,7 @@
 1. hydra : **using to BruteForce Password**
 2. ffuf : **To Fuzzing**
 3. nmap : **To port Scanning**
-4. assetfinder : **Searing For Sub-domain**
+4. assetfinder : **Searching For Sub-domain**
 5. sqlmap : **To Sql Injection**
 6. wpscan : **Wordpres Scanning**
 7. httpx : **http status code**
